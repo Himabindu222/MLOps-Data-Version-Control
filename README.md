@@ -6,6 +6,7 @@ DataVersionControl
 3. run the file dataset.py  using the command python3 dataset.py
    This creates a file named sample_data.csv under data directory.
 4. install dvc
+   
    pip install dvc
 6. Run below command which creates  .dvcignore, .dvc
    dvc init
